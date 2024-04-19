@@ -10,7 +10,7 @@ This Python script is designed to scrape restaurant data from the Yellow Pages U
 2. Install Dependencies: Ensure you have Python installed on your machine. Install the required dependencies using pip.
    `pip install -r requirements.txt`
 3. Run the Script: Execute the Python script "Assignment_magicpitch.ipynb" using Python.
-   `python Assignment_magicpitch.ipynb`
+   `python3 Assignment_magicpitch.ipynb`
 4. View Results: Once the script completes execution, you will find the scraped data saved in a CSV file named restaurant_data.csv in the same directory as the script.
 
 #Script Details
