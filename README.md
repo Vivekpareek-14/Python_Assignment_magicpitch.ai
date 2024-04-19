@@ -5,7 +5,7 @@ This Python script is designed to scrape restaurant data from the Yellow Pages U
 #Instructions
 
 1. Clone Repository: Clone this repository to your local machine. You can do this by running the following command in your terminal or command prompt:
-   `git clone <repository_url`
+   `git clone <repository_url>`
 
 2. Run the Script: Open the Jupyter Notebook file "Assignment_magicpitch.ipynb" in your Jupyter Notebook environment. You can do this by navigating to the project directory in your terminal or command prompt and running:
    `jupyter notebook Assignment_magicpitch.ipynb`
