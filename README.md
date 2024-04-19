@@ -4,14 +4,15 @@ This Python script is designed to scrape restaurant data from the Yellow Pages U
 
 #Instructions
 
-1. Clone Repository: Clone this repository to your local machine.
-   `git clone <repository_url>`
+1. Clone Repository: Clone this repository to your local machine. You can do this by running the following command in your terminal or command prompt:
+   `git clone <repository_url`
 
-2. Install Dependencies: Ensure you have Python installed on your machine. Install the required dependencies using pip.
+2. Install Dependencies: Ensure you have Python installed on your machine. Install the required dependencies using pip. Navigate to the project directory in your terminal or command prompt and run:
    `pip install -r requirements.txt`
-3. Run the Script: Execute the Python script "Assignment_magicpitch.ipynb" using Python.
-   `python3 Assignment_magicpitch.ipynb`
-4. View Results: Once the script completes execution, you will find the scraped data saved in a CSV file named restaurant_data.csv in the same directory as the script.
+3. Run the Script: Open the Jupyter Notebook file "Assignment_magicpitch.ipynb" in your Jupyter Notebook environment. You can do this by navigating to the project directory in your terminal or command prompt and running:
+   `jupyter notebook Assignment_magicpitch.ipynb`
+This will open the Jupyter Notebook in your default web browser. From there, you can execute the cells in the notebook to run the script.
+5. View Results: Once the script completes execution, you will find the scraped data saved in a CSV file named "results.csv" in the same directory as the notebook file. You can view this file using any text editor or spreadsheet software.
 
 #Script Details
 - Base URL: The script starts scraping from the base URL specified (https://www.yellowpages-uae.com/uae/restaurant).
