@@ -21,3 +21,4 @@ This Python script is designed to scrape restaurant data from the Yellow Pages U
 #Notes
 - Ensure a stable internet connection while running the script to prevent interruptions in data scraping.
 - You may customize the script according to your specific requirements, such as adjusting the target number of entries or modifying the data fields to be scraped.
+- Running the script may take some time depending on the number of pages being scraped and the internet connection speed.
